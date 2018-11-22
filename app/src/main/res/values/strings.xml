@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BluetoothAdapter_1122</string>
+    <string name="textViewTitle">블루투스 찾기</string>
+    <string name="buttonStart">search</string>
+    <string name="textViewClient">Blutooth Connect</string>
+    <string name="buttonUp">Up</string>
+    <string name="buttonDown">down</string>
+    <string name="buttonMe1">clickMe</string>
+    <string name="buttonLeft">left</string>
+    <string name="buttonright">right</string>
+    <string name="buttonCenter">center</string>
+    <string name="buttonMoonWalker">Moon Walker</string>
+    <string name="buttonObsMode">ObsMode</string>
+    <string name="buttonMe2">clickme</string>
+    <string name="buttonBend">Bend</string>
+    <string name="buttonAscTurn">AscTurn</string>
+    <string name="buttonUpDown">UpDown</string>
+</resources>
